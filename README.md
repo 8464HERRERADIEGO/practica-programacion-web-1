@@ -27,4 +27,8 @@ Construir la estructura de dos secciones completas de una página web: sección 
 ## AutorIntegrantes EQUIPO 7: 
 DIEGO FABIAN HERRERA CHUC —    8463 
 MARIANA ELIZABETH AC OSALDE — 8464 
+<<<<<<< HEAD
 LUIS ENRIQUE ZIB PECH —       8438
+=======
+LUIS ENRIQUE ZIB PECH —       8438
+>>>>>>> 1787ae4f256409af722a6aaa75e0d1740a05aa5d
