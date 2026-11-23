@@ -1,6 +1,6 @@
 # Práctica 1 - Maquetación Web con HTML5 y CSS
 
-## 📋 Descripción del proyecto
+## Descripción del proyecto
 En este proyecto se realiza la maquetación de dos secciones de una página web de servicios de hosting, aplicando buenas prácticas de estructura semántica con HTML5 y estilos con CSS.
 
 ## Plan de Trabajo
